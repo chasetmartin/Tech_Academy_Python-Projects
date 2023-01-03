@@ -2,9 +2,9 @@
 This is a repository of my Python projects for the Tech Academy. They range from simple programs using basic python, to more complex applications using various modules, such as tkinter and sqlite3, as well as the Django framework.
 
 ## Projects:
-[Web Page Generator](https://github.com/chasetmartin/Tech_Academy_Python-Projects/tree/main/Web_Page_Generator)
-[File Transfer Program](https://github.com/chasetmartin/Tech_Academy_Python-Projects/tree/main/File_Transfer)
-[Checkbook Application](https://github.com/chasetmartin/Tech_Academy_Python-Projects/tree/main/Django_Checkbook_Project)
+* [Web Page Generator](https://github.com/chasetmartin/Tech_Academy_Python-Projects/tree/main/Web_Page_Generator)
+* [File Transfer Program](https://github.com/chasetmartin/Tech_Academy_Python-Projects/tree/main/File_Transfer)
+* [Checkbook Application](https://github.com/chasetmartin/Tech_Academy_Python-Projects/tree/main/Django_Checkbook_Project)
 
 ### Web Page Generator
 A simple tkinter-based program that generates a basic HTML file for the user, and automatically launhces that page in the Chrome browser.
