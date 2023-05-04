@@ -1,5 +1,5 @@
 # Tech_Academy_Python-Projects
-This is a repository of my Python projects for the Tech Academy. They range from simple programs using basic python, to more complex applications using various modules, such as tkinter and sqlite3, as well as the Django framework.
+This is a repository of my Python projects for the Tech Academy. They range from basic programs using simple python, to more complex applications using various modules, such as tkinter and sqlite3, as well as the Django framework.
 
 ## Projects:
 * [Web Page Generator](https://github.com/chasetmartin/Tech_Academy_Python-Projects/tree/main/Web_Page_Generator)
