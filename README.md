@@ -11,4 +11,4 @@ A simple tkinter-based program that generates a basic HTML file for the user, an
 ### File Transfer Program
 The projects creates a GUI in tkinter that allows the user to transfer all files from one directory to another, with a 24 hour time filter: only files that have been edited within the past 24 hours will be moved.
 ### Checkbook Application
-This is a fully functional Django web application that functions like a banking checkbook. It allows users to create an account, make deposits, withdrawals, and view their overall balance.
+This is a fully functional Django web application that functions like a banking checkbook. With CRUD functionality it allows users to create an account, make deposits, withdrawals, and view their overall balance.
